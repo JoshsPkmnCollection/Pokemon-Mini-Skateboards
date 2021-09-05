@@ -106,7 +106,7 @@ Horsea<br>
 <img src="https://i.imgur.com/do891TQ.jpg">
 
 Hypno<br>
-<img src="https://i.imgur.com/s5EfBLy.jpg">
+<img src="https://i.imgur.com/QmIS7X6.jpg">
 
 Ivysaur<br>
 <img src="https://i.imgur.com/yVcMUM8.jpg">
