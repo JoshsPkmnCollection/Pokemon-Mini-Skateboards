@@ -126,6 +126,9 @@ Kakuna<br>
 Kangaskhan<br>
 <img src="https://i.imgur.com/UI2w3pL.jpg">
 
+Koffing<br>
+<img src="https://i.imgur.com/oCdOh7R.jpg">
+
 Lickitung<br>
 <img src="https://i.imgur.com/IpqrF5S.jpg">
 
