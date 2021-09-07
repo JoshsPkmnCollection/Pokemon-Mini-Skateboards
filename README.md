@@ -126,9 +126,6 @@ Kakuna<br>
 Kangaskhan<br>
 <img src="https://i.imgur.com/UI2w3pL.jpg">
 
-Weezing<br>
-<img src="https://i.imgur.com/JJEEA1Z.jpg">
-
 Lickitung<br>
 <img src="https://i.imgur.com/IpqrF5S.jpg">
 
@@ -224,6 +221,9 @@ Voltorb<br>
 
 Weepinbell<br>
 <img src="https://i.imgur.com/rAbmtmz.jpg">
+
+Weezing<br>
+<img src="https://i.imgur.com/JJEEA1Z.jpg">
 
 Zapdos<br>
 <img src="https://i.imgur.com/rbAft4g.png">
