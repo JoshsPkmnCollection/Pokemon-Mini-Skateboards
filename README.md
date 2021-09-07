@@ -6,12 +6,18 @@ According to the Wayback Machine, these were available at the American Internati
 Here's the original picture from the Pokemon website that I was able to find from Wayback Machine, which is unfortunately really low quality. I don't know if that's due to Wayback Machine compressing the images or if that's because the original website had uploaded a super low-quality version. As you can see you can barely discern what's on the boards, and you definitely can't read the text below them, so I believe that there is a higher quality version of this image out there (or at least there was at one point). If anyone happens to have the original image I'd be happy to add it!<br>
 <img src="https://i.imgur.com/ebVDmpJ.jpg">
 
-Something interesting that I noticed is that the website mentions that there are "68 Pokemon finger skateboards" and the image has 68 skateboards as well, but there are actually more than that (I've come up with a total of 73).
+Something interesting that I noticed is that the website mentions that there are "68 Pokemon finger skateboards" and the image has 68 skateboards as well, but there are actually more than that (I've come up with a total of 74).
+
+---
+
+# Unreleased Board
 
 From what I can tell, the variant of the Butterfree featured in the original image was never released, but was instead replaced by this Butterfree:<br>
 <img src="https://i.imgur.com/LOjV7oW.jpg">
 
 ---
+
+# Board Variants
 
 I've been able to track down five boards that weren't featured on the original list, as seen below. I'm not sure if these were released at a later date or why exactly they weren't included with the original list, but from what I can tell the packaging is identical to the rest so I don't believe that they are from a different set or release period.
 
@@ -21,7 +27,11 @@ Chansey - the only difference between this board and the one featured in the ori
 Pikachu - this board is the same as one of the other Pikachu boards (same background) except Pikachu is standing vertically instead of horizontally.<br>
 <img src="https://i.imgur.com/SJpBpbF.jpg">
 
-Three of the boards feature Pokemon that weren't in the original list and are completely new boards:<br>
+---
+
+# New Boards
+
+Four of the boards feature Pokemon that weren't in the original list and are completely new boards:<br>
 
 Gastly<br>
 <img src="https://i.imgur.com/0NnE16V.jpg">
@@ -29,12 +39,15 @@ Gastly<br>
 Goldeen<br>
 <img src="https://i.imgur.com/OHezb20.jpg">
 
+Koffing<br>
+<img src="https://i.imgur.com/oCdOh7R.jpg">
+
 Mewtwo<br>
 <img src="https://i.imgur.com/rhLBBDD.jpg">
 
 ---
 
-Original Boards (Alphabetical Order):
+# Original Boards (Alphabetical Order):
 
 Aerodactyl<br>
 <img src="https://i.imgur.com/yxRcCVH.jpg">
@@ -125,9 +138,6 @@ Kakuna<br>
 
 Kangaskhan<br>
 <img src="https://i.imgur.com/UI2w3pL.jpg">
-
-Koffing<br>
-<img src="https://i.imgur.com/oCdOh7R.jpg">
 
 Lickitung<br>
 <img src="https://i.imgur.com/IpqrF5S.jpg">
