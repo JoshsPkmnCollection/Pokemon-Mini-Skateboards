@@ -126,7 +126,7 @@ Kakuna<br>
 Kangaskhan<br>
 <img src="https://i.imgur.com/UI2w3pL.jpg">
 
-Koffing<br>
+Weezing<br>
 <img src="https://i.imgur.com/JJEEA1Z.jpg">
 
 Lickitung<br>
