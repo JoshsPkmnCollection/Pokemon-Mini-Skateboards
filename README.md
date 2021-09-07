@@ -1,10 +1,12 @@
 # Pokemon-Mini-Skateboards
 
-Some background:
-According to the Wayback Machine, these were available at the American International Toy Fair in the year 2000. I can't tell if these were only released at the Toy Fair, if these were revealed at the Toy Fair and then released elsewhere, or if these were sold before the Toy Fair and just happened to be mentioned on the Pokemon website saying they would be available at the Toy Fair as well.
+Hello everyone,
+
+This is a guide on the XConcepts Pokemon Mini-Skateboards. According to the copyright on the back of the boxes, they were made in 1999, but according to the Wayback Machine, these were available at the American International Toy Fair in the year 2000. I can't tell if these were only released at the Toy Fair, if these were revealed at the Toy Fair and then released elsewhere, or if these were sold before the Toy Fair and just happened to be mentioned on the Pokemon website saying they would be available at the Toy Fair as well.
 
 Here's the original picture from the Pokemon website that I was able to find from Wayback Machine, which is unfortunately really low quality. I don't know if that's due to Wayback Machine compressing the images or if that's because the original website had uploaded a super low-quality version. As you can see you can barely discern what's on the boards, and you definitely can't read the text below them, so I believe that there is a higher quality version of this image out there (or at least there was at one point). If anyone happens to have the original image I'd be happy to add it!<br>
-<img src="https://i.imgur.com/ebVDmpJ.jpg">
+
+<p align="center"><img src="https://i.imgur.com/ebVDmpJ.jpg"></p>
 
 Something interesting that I noticed is that the website mentions that there are "68 Pokemon finger skateboards" and the image has 68 skateboards as well, but there are actually more than that (I've come up with a total of 74).
 
@@ -13,7 +15,7 @@ Something interesting that I noticed is that the website mentions that there are
 # Unreleased Board
 
 From what I can tell, the variant of the Butterfree featured in the original image was never released, but was instead replaced by this Butterfree:<br>
-<img src="https://i.imgur.com/LOjV7oW.jpg">
+<p align="center"><img src="https://i.imgur.com/LOjV7oW.jpg"></p>
 
 ---
 
@@ -22,10 +24,10 @@ From what I can tell, the variant of the Butterfree featured in the original ima
 I've been able to track down five boards that weren't featured on the original list, as seen below. I'm not sure if these were released at a later date or why exactly they weren't included with the original list, but from what I can tell the packaging is identical to the rest so I don't believe that they are from a different set or release period.
 
 Chansey - the only difference between this board and the one featured in the original list is the background.<br>
-<img src="https://i.imgur.com/xxEqH4J.jpg">
+<p align="center"><img src="https://i.imgur.com/xxEqH4J.jpg"></p>
 
 Pikachu - this board is the same as one of the other Pikachu boards (same background) except Pikachu is standing vertically instead of horizontally.<br>
-<img src="https://i.imgur.com/SJpBpbF.jpg">
+<p align="center"><img src="https://i.imgur.com/SJpBpbF.jpg"></p>
 
 ---
 
@@ -34,212 +36,212 @@ Pikachu - this board is the same as one of the other Pikachu boards (same backgr
 Four of the boards feature Pokemon that weren't in the original list and are completely new boards:<br>
 
 Gastly<br>
-<img src="https://i.imgur.com/0NnE16V.jpg">
+<p align="center"><img src="https://i.imgur.com/0NnE16V.jpg"></p>
 
 Goldeen<br>
-<img src="https://i.imgur.com/OHezb20.jpg">
+<p align="center"><img src="https://i.imgur.com/OHezb20.jpg"></p>
 
 Koffing<br>
-<img src="https://i.imgur.com/oCdOh7R.jpg">
+<p align="center"><img src="https://i.imgur.com/oCdOh7R.jpg"></p>
 
 Mewtwo<br>
-<img src="https://i.imgur.com/rhLBBDD.jpg">
+<p align="center"><img src="https://i.imgur.com/rhLBBDD.jpg"></p>
 
 ---
 
 # Original Boards (Alphabetical Order):
 
 Aerodactyl<br>
-<img src="https://i.imgur.com/yxRcCVH.jpg">
+<p align="center"><img src="https://i.imgur.com/yxRcCVH.jpg"></p>
 
 Arcanine<br>
-<img src="https://i.imgur.com/FQTeF6A.png">
+<p align="center"><img src="https://i.imgur.com/FQTeF6A.png"></p>
 
 Articuno<br>
-<img src="https://i.imgur.com/DwcxAoA.png">
+<p align="center"><img src="https://i.imgur.com/DwcxAoA.png"></p>
 
 Beedrill<br>
-<img src="https://i.imgur.com/0vbSmvE.jpg">
+<p align="center"><img src="https://i.imgur.com/0vbSmvE.jpg"></p>
 
 Blastoise<br>
-<img src="https://i.imgur.com/nxRSCmz.jpg">
+<p align="center"><img src="https://i.imgur.com/nxRSCmz.jpg"></p>
 
 Bulbasaur<br>
-<img src="https://i.imgur.com/FQ19uKi.jpg">
+<p align="center"><img src="https://i.imgur.com/FQ19uKi.jpg"></p>
 
 Caterpie<br>
-<img src="https://i.imgur.com/KSbf9U6.jpg">
+<p align="center"><img src="https://i.imgur.com/KSbf9U6.jpg"></p>
 
 Chansey<br>
-<img src="https://i.imgur.com/zoREhfD.jpg">
+<p align="center"><img src="https://i.imgur.com/zoREhfD.jpg"></p>
 
 Charizard<br>
-<img src="https://i.imgur.com/bxtVbDZ.jpg">
+<p align="center"><img src="https://i.imgur.com/bxtVbDZ.jpg"></p>
 
 Charmander<br>
-<img src="https://i.imgur.com/UxDZk23.jpg">
+<p align="center"><img src="https://i.imgur.com/UxDZk23.jpg"></p>
 
 Charmeleon<br>
-<img src="https://i.imgur.com/eGAkPKG.jpg">
+<p align="center"><img src="https://i.imgur.com/eGAkPKG.jpg"></p>
 
 Clefairy<br>
-<img src="https://i.imgur.com/f4vx1JS.jpg">
+<p align="center"><img src="https://i.imgur.com/f4vx1JS.jpg"></p>
 
 Cubone<br>
-<img src="https://i.imgur.com/qnAZ8b3.png">
+<p align="center"><img src="https://i.imgur.com/qnAZ8b3.png"></p>
 
 Dewgong<br>
-<img src="https://i.imgur.com/FOKgy3H.jpg">
+<p align="center"><img src="https://i.imgur.com/FOKgy3H.jpg"></p>
 
 Dragonite<br>
-<img src="https://i.imgur.com/j9Zow3q.jpg">
+<p align="center"><img src="https://i.imgur.com/j9Zow3q.jpg"></p>
 
 Dratini<br>
-<img src="https://i.imgur.com/6BE6i3U.jpg">
+<p align="center"><img src="https://i.imgur.com/6BE6i3U.jpg"></p>
 
 Dugtrio<br>
-<img src="https://i.imgur.com/Mfecw0Q.jpg">
+<p align="center"><img src="https://i.imgur.com/Mfecw0Q.jpg"></p>
 
 Ekans<br>
-<img src="https://i.imgur.com/ioIJSXO.jpg">
+<p align="center"><img src="https://i.imgur.com/ioIJSXO.jpg"></p>
 
 Gengar<br>
-<img src="https://i.imgur.com/AY1eVLO.jpg">
+<p align="center"><img src="https://i.imgur.com/AY1eVLO.jpg"></p>
 
 Geodude<br>
-<img src="https://i.imgur.com/OVkgY4S.png">
+<p align="center"><img src="https://i.imgur.com/OVkgY4S.png"></p>
 
 Gyarados<br>
-<img src="https://i.imgur.com/0bF37la.jpg">
+<p align="center"><img src="https://i.imgur.com/0bF37la.jpg"></p>
 
 Hitmonchan<br>
-<img src="https://i.imgur.com/qMUYLts.jpg">
+<p align="center"><img src="https://i.imgur.com/qMUYLts.jpg"></p>
 
 Horsea<br>
-<img src="https://i.imgur.com/do891TQ.jpg">
+<p align="center"><img src="https://i.imgur.com/do891TQ.jpg"></p>
 
 Hypno<br>
-<img src="https://i.imgur.com/QmIS7X6.jpg">
+<p align="center"><img src="https://i.imgur.com/QmIS7X6.jpg"></p>
 
 Ivysaur<br>
-<img src="https://i.imgur.com/yVcMUM8.jpg">
+<p align="center"><img src="https://i.imgur.com/yVcMUM8.jpg"></p>
 
 Jigglypuff<br>
-<img src="https://i.imgur.com/gcdysDo.jpg">
+<p align="center"><img src="https://i.imgur.com/gcdysDo.jpg"></p>
 
 Jynx<br>
-<img src="https://i.imgur.com/ciOIPNK.jpg">
+<p align="center"><img src="https://i.imgur.com/ciOIPNK.jpg"></p>
 
 Kadabra<br>
-<img src="https://i.imgur.com/qzlI8Wu.jpg">
+<p align="center"><img src="https://i.imgur.com/qzlI8Wu.jpg"></p>
 
 Kakuna<br>
-<img src="https://i.imgur.com/9MwK85e.jpg">
+<p align="center"><img src="https://i.imgur.com/9MwK85e.jpg"></p>
 
 Kangaskhan<br>
-<img src="https://i.imgur.com/UI2w3pL.jpg">
+<p align="center"><img src="https://i.imgur.com/UI2w3pL.jpg"></p>
 
 Lickitung<br>
-<img src="https://i.imgur.com/IpqrF5S.jpg">
+<p align="center"><img src="https://i.imgur.com/IpqrF5S.jpg"></p>
 
 Machamp<br>
-<img src="https://i.imgur.com/54cy6ds.jpg">
+<p align="center"><img src="https://i.imgur.com/54cy6ds.jpg"></p>
 
 Machop<br>
-<img src="https://i.imgur.com/HoCSq19.jpg">
+<p align="center"><img src="https://i.imgur.com/HoCSq19.jpg"></p>
 
 Mankey<br>
-<img src="https://i.imgur.com/0yPiPV9.jpg">
+<p align="center"><img src="https://i.imgur.com/0yPiPV9.jpg"></p>
 
 Meowth<br>
-<img src="https://i.imgur.com/8lEQfPE.jpg">
+<p align="center"><img src="https://i.imgur.com/8lEQfPE.jpg"></p>
 
 Metapod<br>
-<img src="https://i.imgur.com/IAmDZZa.jpg">
+<p align="center"><img src="https://i.imgur.com/IAmDZZa.jpg"></p>
 
 Moltres<br>
-<img src="https://i.imgur.com/eeIiW0J.jpg">
+<p align="center"><img src="https://i.imgur.com/eeIiW0J.jpg"></p>
 
 Nidorina<br>
-<img src="https://i.imgur.com/oW2R7E6.jpg">
+<p align="center"><img src="https://i.imgur.com/oW2R7E6.jpg"></p>
 
 Oddish<br>
-<img src="https://i.imgur.com/7wBN4hG.jpg">
+<p align="center"><img src="https://i.imgur.com/7wBN4hG.jpg"></p>
 
 Parasect<br>
-<img src="https://i.imgur.com/kKoKKLo.jpg">
+<p align="center"><img src="https://i.imgur.com/kKoKKLo.jpg"></p>
 
 Pidgeot<br>
-<img src="https://i.imgur.com/CmcvM84.jpg">
+<p align="center"><img src="https://i.imgur.com/CmcvM84.jpg"></p>
 
 Pikachu 1<br>
-<img src="https://i.imgur.com/u6LlALE.png">
+<p align="center"><img src="https://i.imgur.com/u6LlALE.png"></p>
 
 Pikachu 2<br>
-<img src="https://i.imgur.com/WL2et2m.jpg">
+<p align="center"><img src="https://i.imgur.com/WL2et2m.jpg"></p>
 
 Pikachu 3<br>
-<img src="https://i.imgur.com/BXPZxkH.png">
+<p align="center"><img src="https://i.imgur.com/BXPZxkH.png"></p>
 
 Pikachu 4<br>
-<img src="https://i.imgur.com/Dye6Fnq.jpg">
+<p align="center"><img src="https://i.imgur.com/Dye6Fnq.jpg"></p>
 
 Pinsir<br>
-<img src="https://i.imgur.com/ULzu7qt.jpg">
+<p align="center"><img src="https://i.imgur.com/ULzu7qt.jpg"></p>
 
 Poliwhirl<br>
-<img src="https://i.imgur.com/cpmp0CO.jpg">
+<p align="center"><img src="https://i.imgur.com/cpmp0CO.jpg"></p>
 
 Porygon<br>
-<img src="https://i.imgur.com/Sordmc5.jpg">
+<p align="center"><img src="https://i.imgur.com/Sordmc5.jpg"></p>
 
 Psyduck<br>
-<img src="https://i.imgur.com/UfK2bR9.png">
+<p align="center"><img src="https://i.imgur.com/UfK2bR9.png"></p>
 
 Raichu<br>
-<img src="https://i.imgur.com/skJId4D.jpg">
+<p align="center"><img src="https://i.imgur.com/skJId4D.jpg"></p>
 
 Raticate<br>
-<img src="https://i.imgur.com/3bogk2S.jpg">
+<p align="center"><img src="https://i.imgur.com/3bogk2S.jpg"></p>
 
 Rattata<br>
-<img src="https://i.imgur.com/wjEZUan.jpg">
+<p align="center"><img src="https://i.imgur.com/wjEZUan.jpg"></p>
 
 Scyther<br>
-<img src="https://i.imgur.com/z1kEjGg.jpg">
+<p align="center"><img src="https://i.imgur.com/z1kEjGg.jpg"></p>
 
 Snorlax<br>
-<img src="https://i.imgur.com/zZVYsVR.jpg">
+<p align="center"><img src="https://i.imgur.com/zZVYsVR.jpg"></p>
 
 Staryu<br>
-<img src="https://i.imgur.com/4GBEf2Q.jpg">
+<p align="center"><img src="https://i.imgur.com/4GBEf2Q.jpg"></p>
 
 Tangela<br>
-<img src="https://i.imgur.com/aOsSHRY.jpg">
+<p align="center"><img src="https://i.imgur.com/aOsSHRY.jpg"></p>
 
 Tauros<br>
-<img src="https://i.imgur.com/PXJJE2D.jpg">
+<p align="center"><img src="https://i.imgur.com/PXJJE2D.jpg"></p>
 
 Tentacruel<br>
-<img src="https://i.imgur.com/BpyOTzS.jpg">
+<p align="center"><img src="https://i.imgur.com/BpyOTzS.jpg"></p>
 
 Vaporeon<br>
-<img src="https://i.imgur.com/JKoqkbQ.png">
+<p align="center"><img src="https://i.imgur.com/JKoqkbQ.png"></p>
 
 Vileplume<br>
-<img src="https://i.imgur.com/XYwNXmF.jpg">
+<p align="center"><img src="https://i.imgur.com/XYwNXmF.jpg"></p>
 
 Voltorb<br>
-<img src="https://i.imgur.com/RIzXZPH.jpg">
+<p align="center"><img src="https://i.imgur.com/RIzXZPH.jpg"></p>
 
 Weepinbell<br>
-<img src="https://i.imgur.com/rAbmtmz.jpg">
+<p align="center"><img src="https://i.imgur.com/rAbmtmz.jpg"></p>
 
 Weezing<br>
-<img src="https://i.imgur.com/JJEEA1Z.jpg">
+<p align="center"><img src="https://i.imgur.com/JJEEA1Z.jpg"></p>
 
 Zapdos<br>
-<img src="https://i.imgur.com/rbAft4g.png">
+<p align="center"><img src="https://i.imgur.com/rbAft4g.png"></p>
 
 Zubat<br>
-<img src="https://i.imgur.com/wejBrg2.jpg">
+<p align="center"><img src="https://i.imgur.com/wejBrg2.jpg"></p>
