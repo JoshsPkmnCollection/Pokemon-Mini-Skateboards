@@ -10,6 +10,8 @@ Here's the original picture from the Pokemon website that I was able to find fro
 
 Something interesting that I noticed is that the website mentions that there are "68 Pokemon finger skateboards" and the image has 68 skateboards as well, but there are actually more than that (I've come up with a total of 74).
 
+The size of these Mini-Skateboards (sealed) is approximately 7.75in x 5.5in x 1.5in
+
 ---
 
 # Unreleased Board
