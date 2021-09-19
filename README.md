@@ -104,6 +104,9 @@ Dratini<br>
 Dugtrio<br>
 <img src="https://i.imgur.com/Mfecw0Q.jpg">
 
+Eevee<br>
+<img src="https://i.imgur.com/FD7uqas.jpg">
+
 Ekans<br>
 <img src="https://i.imgur.com/ioIJSXO.jpg">
 
